@@ -1,7 +1,7 @@
 [
   {
-    "repository": "kernel_xiaomi_sdm660",
-    "target_path": "kernel/xiaomi/sdm660"
+    "repository": "kernel_xiaomi_tulip",
+    "target_path": "kernel/xiaomi/tulip"
   },
   {
     "repository": "LineageOS/android_packages_resources_devicesettings",
@@ -9,12 +9,7 @@
     "branch": "lineage-16.0"
   },
   {
-    "repository": "proprietary_vendor_xiaomi",
-    "target_path": "vendor/xiaomi"
-  },
-  {
-    "repository": "PixelExperience-Devices/vendor_MiuiCamera",
-    "target_path": "vendor/MiuiCamera",
-    "branch": "pie-whyred"
+    "repository": "vendor_xiaomi_tulip",
+    "target_path": "vendor/xiaomi/tulip"
   }
 ]
